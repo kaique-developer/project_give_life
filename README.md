@@ -1,4 +1,4 @@
-## Blood Donation Prediction
+## Blood Donation Prediction (English Ver.)
 
 <p>This project aims to predict whether a donor will give blood again during the next visit of a mobile blood donation vehicle. It uses data collected by a blood transfusion center in Taiwan, structured according to the RFMTC marketing model (Recency, Frequency, Monetary, Time, and a binary target for donation). By predicting future donations, the project helps blood banks anticipate and manage blood supplies more efficiently, especially during critical periods like holidays.</p>
 
@@ -15,9 +15,7 @@
 
 ___
 
-## Português
-
-## Blood Donation Prediction
+## Blood Donation Prediction (Português)
 
 <p>Este projeto tem como objetivo prever se um doador fará outra doação de sangue durante a próxima visita de um veículo móvel de coleta de sangue. Ele utiliza dados coletados por um centro de transfusão de sangue em Taiwan, estruturados de acordo com o modelo de marketing RFMTC (Recência, Frequência, Monetário, Tempo e uma variável binária para a doação). Ao prever futuras doações, o projeto ajuda os bancos de sangue a antecipar e gerenciar os estoques de sangue de maneira mais eficiente, especialmente durante períodos críticos como feriados.</p>
 
